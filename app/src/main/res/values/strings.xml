@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Constaint Layout Sample</string>
+    <string name="move_short_description">"Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years."</string>
+    <string name="director_label">Director:</string>
+    <string name="director">Denis Villeneuve</string>
+    <string name="actors_label">Actors</string>
+    <string name="actor_1">Harrison Ford</string>
+    <string name="actor_2">Ryan Gosling</string>
+    <string name="actor_3">Ana de Armas</string>
+    <string name="actor_4">Dave Bautista</string>
+    <string name="like">Like</string>
+    <string name="watch">Watch</string>
+    <string name="movie_title">Blade Runner 2049</string>
+    <string name="share">Share</string>
+</resources>

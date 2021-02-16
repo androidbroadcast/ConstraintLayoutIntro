@@ -1,0 +1,2 @@
+rootProject.name = "Constaint Layout Sample"
+include ':app'

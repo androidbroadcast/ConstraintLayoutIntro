@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Constaint Layout Sample</string>
+    <string name="like">Добавить в избранное</string>
+    <string name="watch">Смотреть</string>
+    <string name="actors_label">Актёры</string>
+    <string name="director_label">Режиссёр</string>
+    <string name="movie_title">Бегущий по лезвию 2049</string>
+    <string name="actor_1" translatable="false">Харисон Форд</string>
+    <string name="actor_2" translatable="false">Райн Гослинг</string>
+    <string name="actor_3" translatable="false">Анна де Армас</string>
+    <string name="actor_4" translatable="false">Дэйв Батиста</string>
+    <string name="director" translatable="false">Дэни Вильнёв</string>
+    <string name="move_short_description" translatable="false">В недалеком будущем мир населен людьми и репликантами, созданными выполнять самую тяжелую работу. Работа офицера полиции Кей - держать репликантов под контролем в условиях нарастающего напряжения...</string>
+</resources>
